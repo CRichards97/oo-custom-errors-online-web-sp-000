@@ -22,3 +22,4 @@ jay = Person.new("Jay-Z")
 beyonce.get_married(jay)
 puts beyonce.name
 beyonce.get_married("jay")
+
